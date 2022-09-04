@@ -1,4 +1,4 @@
 pointer.cpp
 アドレスの代入
 pointer2.cpp
-別の関数から数値
+別の関数からアドレス
