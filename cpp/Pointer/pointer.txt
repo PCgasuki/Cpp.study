@@ -2,3 +2,5 @@ pointer.cpp
 アドレスの代入
 pointer2.cpp
 別の関数からアドレス
+pointer3.cpp
+複数の戻り値を返す
